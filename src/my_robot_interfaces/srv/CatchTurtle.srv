@@ -1,1 +1,3 @@
-sb
+string name
+---
+bool success
